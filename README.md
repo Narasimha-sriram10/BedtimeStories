@@ -25,6 +25,5 @@ Refer to the Video :<a href ="https://www.youtube.com/watch?v=Xx0goSxpVqY"> Fire
 ##### Output Screen :
 <br/>
 
-<img src ="https://user-images.githubusercontent.com/59869563/103492319-09945b80-4e50-11eb-8a47-6577e1a3613c.png" 
-width="439px" height="806px"><img src ="https://user-images.githubusercontent.com/59869563/103492312-01d4b700-4e50-11eb-8207-a5feaa2016cb.png" 
+<img src ="https://user-images.githubusercontent.com/59869563/103509966-42512680-4e8a-11eb-8730-4fb14c084281.png" 
 width="439px" height="806px">
